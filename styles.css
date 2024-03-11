@@ -1,0 +1,11 @@
+.container {
+    border: 5px;
+    border-style: groove;
+    border-color: grey;
+}
+
+.title{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-underline-position: below;
+}
